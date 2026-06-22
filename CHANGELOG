@@ -1,0 +1,19 @@
+# CHANGELOG
+
+## [2026-06-21] - Versión inicial
+- Se creó el repositorio `Actividad5`.
+- Se agregó dataset limpio en carpeta `datos`.
+
+## [2026-06-21] - Entrenamiento inicial
+- Se implementó modelo de Regresión Logística en `entrena.ipynb`.
+- Se registraron métricas en MLflow.
+- Se agregó visualización de matrices de confusión.
+
+## [2026-06-21] - Mejoras en organización
+- Se renombró dataset a `datos_limp.csv`.
+- Se agregó carpeta `fuentes/` con notebook `entrena.ipynb`.
+- Se configuró Ngrok para exponer MLflow públicamente.
+
+## [2026-06-21] - Documentación
+- Se creó `README.md` con instrucciones de ejecución.
+- Se agregó `CHANGELOG.md` para registrar cambios.
